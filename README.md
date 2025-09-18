@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="img1.png" alt="Add Task Screen" width="300" style="margin: 10px;" />
+  <img src="img1.png" alt="Add Task Screen" width="600" style="margin: 10px;" />
   <img src="img2.png" alt="Pending Task Screen" width="300" style="margin: 10px;" />
   <img src="img3.png" alt="Completed Task Screen" width="300" style="margin: 10px;" />
 </div>
