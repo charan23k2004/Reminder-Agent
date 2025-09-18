@@ -1,3 +1,9 @@
+Batch:
+22i239 - Pradeep Murugan
+23i431 - Charan K
+23i435 - Vijayabaskar R
+
+
 ## 🛠️ Tech Stack
 - **Backend**: FastAPI, SQLite (or any DB), Redis (for scheduling/notifications), SMTP (for emails)
 - **Frontend**: Streamlit
