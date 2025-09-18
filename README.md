@@ -4,6 +4,12 @@
 - **Auth**: JWT Tokens
 - **AI**: Simple NLP rules + Gemini API integration
 
+
+<div align="center">
+  <img src="img1.jpeg" alt="Add Task Screen" width="300" style="margin: 10px;" />
+  <img src="img2.jpg" alt="Pending Task Screen" width="300" style="margin: 10px;" />
+  <img src="img3.jpg" alt="Completed Task Screen" width="300" style="margin: 10px;" />
+</div>
 ---
 
 ## 📦 Installation Guide
