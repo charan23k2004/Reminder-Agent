@@ -1,0 +1,20 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic         # optional if you want migrations
+pydantic
+passlib[bcrypt]
+pyjwt
+apscheduler
+python-multipart
+httpx
+streamlit
+redis
+rq              # optional if you want RQ workers
+aioredis        # async redis client
+python-dotenv
+requests
+email-validator
+openai           # or the Gemini client you prefer
+google-auth      # only if using Google client libraries
+plyer            # only works on the same machine as the process — not for remote users
